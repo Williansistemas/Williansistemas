@@ -1,4 +1,4 @@
-- 👋 Ola, Meu nome é Willian Jefferson sou analista de sistemas e desenvolvedor PHP, Java, Python apaixonado por tecnologia, educação e conhecimento!
+- 👋 Ola, Meu nome é Willian Jefferson sou analista de sistemas e desenvolvedor PHP, Java, Python apaixonado por tecnologia, educação e conhecimento! Gosto de HTML, CSS e JavaScript
 - 👀  Tenho interesse em trabalho remoto para o desenvolvimento de sites e lojas virtuais e aplicativos desktop.
 - 🌱 Atualmente estou aprendendo, node e react
 -  Estou aperfeiçoando meu conhecimento com Slim PHP, Codeingniter, Laravel.
